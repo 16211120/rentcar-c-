@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479652930 source:c:\users\mahesha dilhani\desktop\code block\rentcar\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

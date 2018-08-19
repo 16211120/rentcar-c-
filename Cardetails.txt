@@ -1,0 +1,5 @@
+  1	luxury		  a/c		petrol	 auto	2016/10/28
+  2	luxury		  a/c		petrol	 auto	 notbooked
+  3	luxury		  a/c		diesel	 auto	2016/10/29
+  4	normal		  a/c		diesel	manual	 notbooked
+  5	normal		non-a/c		diesel	manual	2016/11/10
